@@ -1,6 +1,6 @@
 # Consumer guide
 
-Implementation example: [testconsumer](../example-consumer)
+Implementation example: [example-consumer](../example-consumer)
 
 ## Client connection
 
