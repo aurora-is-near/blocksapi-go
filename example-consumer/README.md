@@ -2,7 +2,7 @@
 
 ```
 export BLOCKSAPI_TOKEN=Token123
-./testconsumer -server localhost:4300 -start-exactly-after 125415200 -stream-catchup -exclude-catchup-payload
+./example-consumer -server localhost:4300 -start-exactly-after 125415200 -stream-catchup -exclude-catchup-payload
 2024/08/10 06:18:18 Calling...
 2024/08/10 06:18:18 A call was just made, waiting for responses...
 2024/08/10 06:18:26 x-reqid: 66b737dfce239153
