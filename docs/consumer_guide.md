@@ -1,6 +1,6 @@
 # Consumer guide
 
-Implementation example: [testconsumer](https://github.com/aurora-is-near/block-storage/tree/main/cmd/testconsumer)
+Implementation example: [testconsumer](../example-consumer)
 
 ## Client connection
 
